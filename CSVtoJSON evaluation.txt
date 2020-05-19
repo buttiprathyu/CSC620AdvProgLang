@@ -1,0 +1,5 @@
+Execution time 
+My CSVtoJSON - is what I want accurately without any extra lines for headers and empty line
+
+Papaparse - Had two extra lines - https://www.papaparse.com/demo - check the console
+
